@@ -1,4 +1,7 @@
 # dsci310-ia3-aidanaimy-docker
+
+Link to Dockerhub repo: https://hub.docker.com/r/aidanaimy/dsci310-ia3-aidanaimy-docker
+
 ## Base Image
 This Docker image is based on the official Rocker RStudio image.
 
